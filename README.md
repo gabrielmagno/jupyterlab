@@ -48,7 +48,7 @@ It supports both JupyterLab v3 and v4.
 
 ### Brand Color
 
-It is possible to choose any of the Catppucin colors as your "brand" color. The default is `mauve`, but you can choose your favorite to make it your way!
+It is possible to choose any of the Catppuccin colors as your "brand" color. The default is `mauve`, but you can choose your favorite to make it your way!
 
 <img src="https://raw.githubusercontent.com/catppuccin/jupyterlab/main/assets/mocha-brand.webp"/>
 
